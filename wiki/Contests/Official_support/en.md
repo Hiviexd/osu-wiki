@@ -14,7 +14,11 @@ tags:
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
-This article was last updated on **March 13, 2025**. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on **October 22, 2025**. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any inquiries or clarifications, you can:
+
+- Send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Reach out to the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) via [creating a ticket](https://tcomm.hivie.tn/tickets/create) through the [Tournament Committee website](https://tcomm.hivie.tn/).
+- Consult the [`#tournaments`](https://discord.com/channels/188630481301012481/867773019015610389) channel in the [osu! Discord server](https://discord.com/invite/ppy).
 
 ## Benefits
 
@@ -22,11 +26,11 @@ Officially supported contests have access to certain benefits:
 
 - **Profile badge prizes for first-place winners.** See profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges).
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
-- **Potential consideration for [news coverage](#news-posts)**.
+- **Conditional consideration for [news coverage](#news-posts)** and **in-game banner support**.
 
 ## Expectations
 
-Contest organisers are expected to monitor their contest for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
+Contest organisers are expected to monitor their contest for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support or result in a [tournament ban](/wiki/Help_centre/Tournament_bans) depending on the severity.
 
 ### Contests
 
@@ -75,7 +79,7 @@ Contests which abide by the following criteria are eligible for official support
 In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 
 - **The contest must exclusively use songs listed in osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists) or other songs explicitly permitted for use in osu!.**
-- **The contest's initial announcement must be published on [osu!'s front page news](https://osu.ppy.sh/home/news) and the [contest listing](https://osu.ppy.sh/community/contests).** For credibility of the *Elite Mapper* title, a contest must have maximum visibility.
+- **The contest must be published on [osu!'s front page news](https://osu.ppy.sh/home/news), the [contest listing](https://osu.ppy.sh/community/contests), and advertise its registrations through in-game banners.** Refer to below for details todo rewrite this
 
 ## Requesting support
 
@@ -89,8 +93,17 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Public Discord servers or any other off-site chatrooms used for the contest.
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
+- A list of applicable badge recipients (a.k.a. the winners of your contest).
+- An appropriately designed badge (see profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges)).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
+If you're also requesting [contest points](/wiki/Contests/Contest_points) rewards, you will need to additionally provide:
+
+- Any links to:
+  - The contest's news posts.
+  - The contest's [listing](https://osu.ppy.sh/community/contests) page.
+- Proof of content usage permissions if your contest uses songs outside of osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).
+
+Once we receive your request, the osu! team will either send an approval or denial of your contest's official support status, or request changes to resolve any glaring issues with the contest.
 
 Profile badge prizes must be requested at most two months after the contest's completion. **Badges will never be approved until after the conclusion of the contest.**
 
@@ -98,12 +111,19 @@ For news posts, setting up contest listings, or any other inquiries, please cont
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 
-If approved, you will need to submit the following:
+### Top three badge support
 
-- A list of applicable badge recipients (a.k.a. the winners of your contest).
-- An appropriately designed badge (see profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges)).
+In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A contest that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your contest meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
 
-In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A contest that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+Note that badge prizes for the top three finalists will only be considered for contests without any restrictions in place for participation, such as being limited to a specific geographic region.
+
+### News posts and in-game banner support (WIP)
+
+Maximum visibility is required to ensure the credibility of the *Elite Mapper* title. This is why contests aiming for awarding contest points for the Elite Mapper title must publicise their registrations and results through [osu!'s front page news](https://osu.ppy.sh/home/news), the [contest listing](https://osu.ppy.sh/community/contests), and main-menu banners.
+
+### Main-menu banners
+
+Stuff
 
 ### News posts
 
@@ -116,7 +136,7 @@ While support for advertising and sharing the outcome of your contest is availab
 - Those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria). Additional news posts are presently not permitted.
 - If your contest is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
 
-Requests for news support will be reviewed by both the Contest Committee and the osu! news team for suitability.
+Requests for news support will be reviewed by both the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) and the osu! news team for suitability.
 
 ## Notes
 
