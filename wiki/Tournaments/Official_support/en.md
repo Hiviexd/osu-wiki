@@ -342,7 +342,7 @@ The tri-badge distinction is reserved for tournaments which achieve the highest 
 Hosts aiming to achieve this support are expected to adhere to all requirements listed below, and must aim to satisfy as many of the below recommendations as possible:
 
 - The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
+- The tournament **must** be open rank[^open-rank] and **must not** be restricted to any specific geographic region.
 - Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
 - Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
@@ -494,7 +494,8 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 ## Notes
 
-[^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
+[^open-rank]: Open rank tournaments do not place restrictions on individual registrations based on rank or other skill metrics
+[^intervention]: After joining the [Discord server](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
 [^preliminary-event]: Other tournaments for which participation and/or placement can constitute a direct qualification into another are considered preliminary.
