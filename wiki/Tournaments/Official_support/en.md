@@ -114,9 +114,9 @@ For each of these tournaments, take note of the design of the forum post and oth
 
 [![](img/oft9-banner.png)](https://osu.ppy.sh/community/forums/topics/2107540?n=1)
 
-##### Stage's Tranquility Tournament 4
+##### Belladonna's Duoiji Cup
 
-[![](img/stt4-banner.png)](https://osu.ppy.sh/community/forums/topics/1948257?n=1)
+[![](img/bdc-banner.png)](https://osu.ppy.sh/community/forums/topics/1827765?n=1)
 
 ### Regulatory
 
