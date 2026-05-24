@@ -333,7 +333,7 @@ Below are examples of previously approved main-menu banners:
 
 ![](img/egts-banner-gf.png)
 
-[**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
+[**Click here to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
 ### Tri-badge {id=tri-badge-support}
 
