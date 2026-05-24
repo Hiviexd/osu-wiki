@@ -156,10 +156,10 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers **may** play in the tournament.
 - Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, **may not** play in a badged tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Staff with any role not listed above **may not** play in an officially supported tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
 - Users under an active [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans) **must** disclose their ban status to any officially supported tournament they intend to help with.
-  - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enroll a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
+  - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enlist a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
   - It is **recommended** to not recruit tournament-banned users for staffing positions as they have already infringed upon the rules.
 
 At the support team's discretion, staff members whose conduct contradicts these expectations **may** be issued a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans).
