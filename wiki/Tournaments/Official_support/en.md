@@ -94,6 +94,7 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 
 - Forum post graphics, profile badges, stream overlays, and other graphics **must** have a reasonable amount of effort put into them. A consistent theme following standard design principles is **required**.
   - Graphic designers are frequently commissioned to handle this aspect of the tournament.
+  - Generative AI **shall not** be used for any tournament graphics, music, or beatmaps.
 - The tournament **should** feature visually appealing, clearly readable spreadsheets which contain all of the information required by the committee to conduct the tournament review process:
   - Registrants
   - Mappools
