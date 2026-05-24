@@ -65,8 +65,9 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 - The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
   - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
-  - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank and have a minimum team size of 8.
+  - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams.
+    - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
+  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
   - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
 - Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
