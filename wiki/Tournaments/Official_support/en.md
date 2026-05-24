@@ -451,8 +451,8 @@ There are three main ways to get in contact with the committee:
 
 Generally, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
-| :-- | :-- | :-- | :-- |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
+| :-- | :-: | :-: | :-: |
 | Official tournament support requests | ![true] | ![false] | ![false] |
 | News post and main-menu banner requests | ![true] | ![false] | ![false] |
 | Conclusion / prize request | ![true] | ![false] | ![false] |
@@ -460,12 +460,12 @@ Generally, these are the reasons each method **should** be used. Contact methods
 | Tournament format approval requests | ![partial] | ![true] | ![false] |
 | Quick clarification on beatmap compliance | ![partial] | ![true] | ![true] |
 | Quick questions about procedures | ![partial] | ![true] | ![true] |
-| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] [^intervention] |
+| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] |
 
 The following table details **approximate** wait times for common inquiries. Wait times vary depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer. Response times also vary depending on the urgency of the request.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
-| :-- | :-- | :-- | :-- |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
+| :-- | :-: | :-: | :-: |
 | Official tournament support requests / screening | 10–14 days | ![false] | ![false] |
 | News post and main-menu banner requests | 10–14 days | ![false] | ![false] |
 | Tournament format approval requests | 10–14 days | 10–14 days | ![false] |
