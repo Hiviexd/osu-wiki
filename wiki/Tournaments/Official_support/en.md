@@ -125,8 +125,8 @@ Tournaments requesting official support **must** adhere to the following:
 - The tournament **must** abide by the following content usage rules:
   - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
   - Any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
-    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
-  - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure tournament mappools are compliant.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist **prior** to its use in the tournament.
+  - The [mappool compliance tool](https://tcomm.hivie.tn/mappool-compliance) **should** be used to ensure tournament mappools are compliant.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
