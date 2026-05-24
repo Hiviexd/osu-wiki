@@ -29,7 +29,7 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 
 It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage. Tournament hosts **must** be prepared to adhere to all [eligibility criteria](#eligibility-criteria) prior to submitting the support request.
 
-Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles—at least as a referee—before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
+Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles — at least as a referee — before hosting **any** tournament, in order to gain experience. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
 The committee expects tournament hosts requesting this support to follow all criteria exactly as written. Hosts and co-hosts are all equally, chiefly responsible for the success of their tournaments and will generally be actioned equally should it be warranted. So long as an avenue exists such that host action could have prevented the denial of support, they will be held responsible.
 
