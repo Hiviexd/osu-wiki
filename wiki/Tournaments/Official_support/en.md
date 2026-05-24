@@ -69,8 +69,8 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
     - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
   - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
-  - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
-- Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
+  - To request official support for an alternative format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
+- Tournaments that are not open rank[^open-rank] **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
