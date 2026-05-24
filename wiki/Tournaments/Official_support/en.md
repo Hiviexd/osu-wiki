@@ -29,7 +29,7 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 
 It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage. Tournament hosts **must** be prepared to adhere to all [eligibility criteria](#eligibility-criteria) prior to submitting the support request.
 
-Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles—at least as a referee—before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
+Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles — at least as a referee — before hosting **any** tournament, in order to gain experience. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
 The committee expects tournament hosts requesting this support to follow all criteria exactly as written. Hosts and co-hosts are all equally, chiefly responsible for the success of their tournaments and will generally be actioned equally should it be warranted. So long as an avenue exists such that host action could have prevented the denial of support, they will be held responsible.
 
@@ -65,11 +65,12 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 - The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
   - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
-  - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank and have a minimum team size of 8.
+  - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams.
+    - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
+  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
-  - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
-- Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
+  - To request official support for an alternative format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
+- Tournaments that are not open rank[^open-rank] **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
@@ -91,8 +92,9 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 
 Officially-supported tournaments **must** meet certain quality standards and maintain them throughout the tournament. Low-quality events are subject to [revocation of support](#revocation-of-support).
 
-- Forum post graphics, profile badges, stream overlays, and other graphics **must** have a reasonable amount of effort put into them. A consistent theme following standard design principles is **required**.
+- Forum post graphics, profile badges, stream overlays, and other graphics **should** have a reasonable amount of effort put into them. A consistent theme following standard design principles is **recommended**.
   - Graphic designers are frequently commissioned to handle this aspect of the tournament.
+  - Generative AI **shall not** be used for any tournament graphics, music, or beatmaps.
 - The tournament **should** feature visually appealing, clearly readable spreadsheets which contain all of the information required by the committee to conduct the tournament review process:
   - Registrants
   - Mappools
@@ -112,9 +114,9 @@ For each of these tournaments, take note of the design of the forum post and oth
 
 [![](img/oft9-banner.png)](https://osu.ppy.sh/community/forums/topics/2107540?n=1)
 
-##### Stage's Tranquility Tournament 4
+##### Belladonna's Duoiji Cup
 
-[![](img/stt4-banner.png)](https://osu.ppy.sh/community/forums/topics/1948257?n=1)
+[![](img/bdc-banner.png)](https://osu.ppy.sh/community/forums/topics/1827765?n=1)
 
 ### Regulatory
 
@@ -123,20 +125,20 @@ Tournaments requesting official support **must** adhere to the following:
 - The tournament **must** abide by the following content usage rules:
   - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
   - Any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
-    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
-  - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure tournament mappools are compliant.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist **prior** to its use in the tournament.
+  - The [mappool compliance tool](https://tcomm.hivie.tn/mappool-compliance) **should** be used to ensure tournament mappools are compliant.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
-  - Disqualifying a user due to breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
+  - Disqualifying a user due to a breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
 - A dedicated referee **must** be present during every match, or be available to be summoned with minimal delay (less than five minutes) **if** permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players **must not** "self-ref".
 - Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
-- All multiplayer matches relevant to the tournament **must** be created with the `!mp make` command, so that they do not expire. The results **must** be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
+- All multiplayer matches relevant to the tournament **must** be created with the `!mp make` command, so that they do not expire. The results **must** be recorded and made publicly available on the original tournament forum post, or an outside source linked on the forum post, in a clear and accessible format.
 - All relevant rule changes **must** be communicated clearly to all participants.
 - All relevant links **must** be present and maintained on the tournament's forum post.
   - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **may** be included on the tournament's main spreadsheet instead.
 - All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
-- All forum threads associated with the tournament **must** contain this snippet at the very end of the forum post:
+- All forum threads associated with the tournament **must** contain this snippet **at the very end** of the forum post:
 
 ```
 [centre]
@@ -144,7 +146,7 @@ Tournaments requesting official support **must** adhere to the following:
 [/centre]
 ```
 
-#### Organisers
+#### Organiser expectations
 
 Tournament organisers **must** report instances of foul play, misconduct, and violations of the staff & player expectations outlined below to the committee (see [contact](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
 
@@ -154,10 +156,10 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers **may** play in the tournament.
 - Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, **may not** play in a badged tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Staff with any role not listed above **may not** play in an officially supported tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
 - Users under an active [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans) **must** disclose their ban status to any officially supported tournament they intend to help with.
-  - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enroll a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
+  - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enlist a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
   - It is **recommended** to not recruit tournament-banned users for staffing positions as they have already infringed upon the rules.
 
 At the support team's discretion, staff members whose conduct contradicts these expectations **may** be issued a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans).
@@ -331,7 +333,7 @@ Below are examples of previously approved main-menu banners:
 
 ![](img/egts-banner-gf.png)
 
-[**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
+[**Click here to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
 ### Tri-badge {id=tri-badge-support}
 
@@ -340,7 +342,7 @@ The tri-badge distinction is reserved for tournaments which achieve the highest 
 Hosts aiming to achieve this support are expected to adhere to all requirements listed below, and must aim to satisfy as many of the below recommendations as possible:
 
 - The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
+- The tournament **must** be open rank[^open-rank] and **must not** be restricted to any specific geographic region.
 - Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
 - Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
@@ -364,7 +366,7 @@ At the committee's discretion, tournaments which meet or exceed these expectatio
 
 Below are examples of tournaments which have received this distinction:
 
-- [Corsace Open 2023](https://osu.ppy.sh/community/forums/topics/1794106?n=1)
+- [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025)
 - [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
 - [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
 - [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
@@ -449,8 +451,8 @@ There are three main ways to get in contact with the committee:
 
 Generally, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
-| :-- | :-- | :-- | :-- |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
+| :-- | :-: | :-: | :-: |
 | Official tournament support requests | ![true] | ![false] | ![false] |
 | News post and main-menu banner requests | ![true] | ![false] | ![false] |
 | Conclusion / prize request | ![true] | ![false] | ![false] |
@@ -458,12 +460,12 @@ Generally, these are the reasons each method **should** be used. Contact methods
 | Tournament format approval requests | ![partial] | ![true] | ![false] |
 | Quick clarification on beatmap compliance | ![partial] | ![true] | ![true] |
 | Quick questions about procedures | ![partial] | ![true] | ![true] |
-| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] [^intervention] |
+| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] |
 
 The following table details **approximate** wait times for common inquiries. Wait times vary depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer. Response times also vary depending on the urgency of the request.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
-| :-- | :-- | :-- | :-- |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
+| :-- | :-: | :-: | :-: |
 | Official tournament support requests / screening | 10–14 days | ![false] | ![false] |
 | News post and main-menu banner requests | 10–14 days | ![false] | ![false] |
 | Tournament format approval requests | 10–14 days | 10–14 days | ![false] |
@@ -492,7 +494,8 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 ## Notes
 
-[^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
+[^open-rank]: Open rank tournaments do not place restrictions on individual registrations based on rank or other skill metrics
+[^intervention]: After joining the [Discord server](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
 [^preliminary-event]: Other tournaments for which participation and/or placement can constitute a direct qualification into another are considered preliminary.
