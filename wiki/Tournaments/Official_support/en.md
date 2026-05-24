@@ -146,7 +146,7 @@ Tournaments requesting official support **must** adhere to the following:
 [/centre]
 ```
 
-#### Organisers
+#### Organiser expectations
 
 Tournament organisers **must** report instances of foul play, misconduct, and violations of the staff & player expectations outlined below to the committee (see [contact](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
 
