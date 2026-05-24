@@ -138,7 +138,7 @@ Tournaments requesting official support **must** adhere to the following:
 - All relevant links **must** be present and maintained on the tournament's forum post.
   - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **may** be included on the tournament's main spreadsheet instead.
 - All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
-- All forum threads associated with the tournament **must** contain this snippet at the very end of the forum post:
+- All forum threads associated with the tournament **must** contain this snippet **at the very end** of the forum post:
 
 ```
 [centre]
