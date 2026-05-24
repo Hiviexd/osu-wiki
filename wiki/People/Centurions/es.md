@@ -14,7 +14,7 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | [28/5/2022](https://osu.ppy.sh/beatmapsets/1475077) | [11/11/2025](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | [13/7/2020](https://osu.ppy.sh/beatmapsets/1173956) | [28/4/2025](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [6/11/2019](https://osu.ppy.sh/beatmapsets/1057765) | [23/8/2023](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [11/1/2009](https://osu.ppy.sh/beatmapsets/11975) | [10/12/2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [27/2/2009](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [10/12/2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [6/5/2018](https://osu.ppy.sh/beatmapsets/757813) | [26/9/2019](https://osu.ppy.sh/beatmapsets/935244) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2/11/2015](https://osu.ppy.sh/beatmapsets/329829) | [31/10/2019](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [25/10/2007](https://osu.ppy.sh/beatmapsets/122) | [4/8/2010](https://osu.ppy.sh/beatmapsets/17885) |  |
@@ -36,6 +36,7 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | [21/3/2015](https://osu.ppy.sh/beatmapsets/278813) | [23/12/2024](https://osu.ppy.sh/beatmapsets/2211027) | [#1](https://osu.ppy.sh/beatmaps/packs/TM27) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [13/3/2017](https://osu.ppy.sh/beatmapsets/542755) | [31/8/2019](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [9/12/2017](https://osu.ppy.sh/beatmapsets/623924) | [24/11/2020](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | [18/11/2016](https://osu.ppy.sh/beatmapsets/474376) | [14/3/2026](https://osu.ppy.sh/beatmapsets/2467848) | [#1](https://osu.ppy.sh/beatmaps/packs/TM37) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [28/3/2011](https://osu.ppy.sh/beatmapsets/26544) | [1/8/2024](https://osu.ppy.sh/beatmapsets/2106029) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/6/2017](https://osu.ppy.sh/beatmapsets/598791) | [28/9/2022](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [12/10/2021](https://osu.ppy.sh/beatmapsets/1493511) | [17/9/2025](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
@@ -50,4 +51,8 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **5 años y medio**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 2021 días) clasificar 100 beatmaps en promedio.<!--Stats from https://chromb.uk/centurions/data.json-->
+- Entre todos los centuriones, toma aproximadamente **5,6 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 2059 días) clasificar 100 beatmaps en promedio.<!--Stats from https://chromb.uk/centurions/data.json-->
+
+## Notas
+
+[^andrea-first-ranked-date]: Debido a un fallo del sistema, el sitio web muestra erróneamente [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) como el primer beatmap clasificado de ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) (con fecha 11 de enero de 2009). Sin embargo, este beatmap se clasificó en realidad aproximadamente un año después, el [14 de enero de 2010](https://osu.ppy.sh/community/forums/posts/295050).
