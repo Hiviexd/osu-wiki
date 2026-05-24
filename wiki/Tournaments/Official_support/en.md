@@ -366,7 +366,7 @@ At the committee's discretion, tournaments which meet or exceed these expectatio
 
 Below are examples of tournaments which have received this distinction:
 
-- [Corsace Open 2023](https://osu.ppy.sh/community/forums/topics/1794106?n=1)
+- [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025)
 - [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
 - [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
 - [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
