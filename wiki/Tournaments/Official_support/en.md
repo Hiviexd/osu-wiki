@@ -141,9 +141,7 @@ Tournaments requesting official support **must** adhere to the following:
 - All forum threads associated with the tournament **must** contain this snippet **at the very end** of the forum post:
 
 ```
-[centre]
-[url=https://tcomm.hivie.tn/reports/create]Tournament reports form[/url]
-[/centre]
+[notice]If you believe there is an issue that impacts the competitive integrity of the tournament, please use the [url=https://tcomm.hivie.tn/reports/create]tournament report form[/url] to list your concerns with the Tournament Committee.[/notice]
 ```
 
 #### Organiser expectations
@@ -329,9 +327,9 @@ Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.
 
 Below are examples of previously approved main-menu banners:
 
-![](img/corsace-banner-gf3.png)
+[![](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
 
-![](img/egts-banner-gf.png)
+[![](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
 [**Click here to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
@@ -409,7 +407,7 @@ Badge images **must** adhere to the following standards:
 
 - The submitted file **must** be a `.png` file.
 - The dimensions **must** be exactly `172x80px`.
-- The design **must** clearly display the tournament’s name, logo, or motif.
+- The design **must** clearly display the tournament's name, logo, or motif.
 - The design **must** be cleanly produced, legible, and of reasonable visual quality.
 - The design **must not** include any sponsorship or promote anything besides the tournament.
 - The design **must not** include any AI-generated assets.
@@ -425,7 +423,7 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-![](img/corsace-open-22@2x.png) ![](img/egts-w-2022@2x.png) ![](img/PRISM241ST@2x.png)
+![](img/phkc-badge.png) ![](img/egts-w-2022@2x.png) ![](img/PRISM241ST@2x.png)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
 
