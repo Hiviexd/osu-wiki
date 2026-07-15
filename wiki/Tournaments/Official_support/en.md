@@ -423,7 +423,7 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-![](img/phkc-badge.png) ![](img/egts-w-2022@2x.png) ![](img/PRISM241ST@2x.png)
+[![](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
 
