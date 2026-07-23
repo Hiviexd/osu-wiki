@@ -127,6 +127,12 @@ Tournaments requesting official support **must** adhere to the following:
   - Any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist **prior** to its use in the tournament.
   - The [mappool compliance tool](https://tcomm.hivie.tn/mappool-compliance) **should** be used to ensure tournament mappools are compliant.
+  - Instances of content usage violation will result in the host automatically receiving the following sanctions:
+    - First offense: Official warning
+    - Second offense: 6 month hosting ban
+    - Third offense: 1 year hosting ban
+    - Fourth offense: Indefinite hosting ban
+  - The sanction scale will reset by one step once a year has elapsed since the host's most recent offense. Repeat offenses will always result in at minimum a 6 month hosting ban.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
@@ -141,9 +147,7 @@ Tournaments requesting official support **must** adhere to the following:
 - All forum threads associated with the tournament **must** contain this snippet **at the very end** of the forum post:
 
 ```
-[centre]
-[url=https://tcomm.hivie.tn/reports/create]Tournament reports form[/url]
-[/centre]
+[notice]If you believe there is an issue that impacts the competitive integrity of the tournament, please use the [url=https://tcomm.hivie.tn/reports/create]tournament report form[/url] to list your concerns with the Tournament Committee.[/notice]
 ```
 
 #### Organiser expectations
@@ -329,9 +333,9 @@ Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.
 
 Below are examples of previously approved main-menu banners:
 
-![](img/corsace-banner-gf3.png)
+[![](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
 
-![](img/egts-banner-gf.png)
+[![](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
 [**Click here to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
@@ -409,7 +413,7 @@ Badge images **must** adhere to the following standards:
 
 - The submitted file **must** be a `.png` file.
 - The dimensions **must** be exactly `172x80px`.
-- The design **must** clearly display the tournament’s name, logo, or motif.
+- The design **must** clearly display the tournament's name, logo, or motif.
 - The design **must** be cleanly produced, legible, and of reasonable visual quality.
 - The design **must not** include any sponsorship or promote anything besides the tournament.
 - The design **must not** include any AI-generated assets.
@@ -425,7 +429,7 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-![](img/corsace-open-22@2x.png) ![](img/egts-w-2022@2x.png) ![](img/PRISM241ST@2x.png)
+[![](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
 
