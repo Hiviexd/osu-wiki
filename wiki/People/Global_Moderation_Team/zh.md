@@ -106,7 +106,9 @@ tags:
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | 葡萄牙语 | 聊天管理员 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 论坛管理员，技术支持团队 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持团队 |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | 聊天管理员 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持团队，wiki 管理员 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 | 作图摸图社群管理员 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 芬兰语，一部分瑞典语 | 聊天管理员 |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | 汉语 | 聊天管理员，作图摸图社群管理员 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
@@ -128,6 +130,7 @@ tags:
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 | 锦标赛管理员[^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 作图摸图社群管理员 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 贡献者 |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 | 作图摸图社群管理员 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 越南语 | 聊天管理员 |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天管理员，论坛管理员，技术支持团队 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 作图摸图社群管理员 |
@@ -151,7 +154,6 @@ tags:
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印度尼西亚语，一部分越南语 | 聊天管理员，论坛管理员 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 汉语 | 聊天管理员 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韩语 | 作图摸图社群管理员 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 | 论坛管理员 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 芬兰语 | 聊天管理员 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 论坛管理员，聊天管理员 |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | 西班牙语 | 聊天管理员 |

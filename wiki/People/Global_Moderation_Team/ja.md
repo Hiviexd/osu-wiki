@@ -84,7 +84,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | ポルトガル語 | チャットモデレーション |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | フォーラムモデレーション、テクニカルサポート |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | テクニカルサポート |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | チャットモデレーション |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | プレーヤーサポート、wiki管理者 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | フィンランド語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | フィンランド語、部分的なスウェーデン語 | チャットモデレーション |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | 中国語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | ポーランド語 | チャットモデレーション |
@@ -106,6 +108,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 広東語、中国語 | トーナメント運営 |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | ポルトガル語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!開発者 |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | フランス語、スペイン語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | ベトナム語 | チャットモデレーション |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | フィリピノ語 | チャットモデレーション、フォーラムモデレーション、テクニカルサポート |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding コミュニティ モデレーション |
@@ -129,7 +132,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓国語 | Mapping/modding コミュニティ モデレーション |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | フィンランド語 | チャットモデレーション |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | フォーラムモデレーション、チャットモデレーション |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | スペイン語 | チャットモデレーション |

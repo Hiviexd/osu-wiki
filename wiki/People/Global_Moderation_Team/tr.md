@@ -82,7 +82,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Portekizce | Sohbet moderasyonu |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderasyonu, teknik destek |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Sohbet moderasyonu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Fince | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fince, biraz İsveççe | Sohbet moderasyonu |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Çince | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
@@ -104,6 +106,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Fransızca, İspanyolca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamca | Sohbet moderasyonu |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
@@ -127,7 +130,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Endonezce, biraz Vietnamca | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korece | Mapping/modding topluluk moderasyonu |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | Forum moderasyonu |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Fince | Sohbet moderasyonu |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderasyonu, sohbet moderasyonu |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | İspanyolca | Sohbet moderasyonu |

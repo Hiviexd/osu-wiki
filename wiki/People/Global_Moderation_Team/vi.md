@@ -99,7 +99,9 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Tiếng Bồ Đào Nha | Kiểm duyệt chat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Kiểm duyệt diễn đàn, hỗ trợ kỹ thuật |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Hỗ trợ kỹ thuật |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Kiểm duyệt chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Hỗ trợ người chơi, quản lý wiki |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Tiếng Phần Lan, một chút Tiếng Thụy Điển | Kiểm duyệt chat |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Tiếng Trung | Kiểm duyệt chat, kiểm duyệt mảng mapping/modding |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Tiếng Ba Lan | Kiểm duyệt chat |
@@ -121,6 +123,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Tiếng Quảng Đông, Tiếng Trung | Quản lý giải đấu[^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Tiếng Bồ Đào Nha | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!dev |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng Pháp, Tiếng Tây Ban Nha | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Tiếng Việt | Kiểm duyệt chat |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tiếng Philippines | Kiểm duyệt chat, kiểm duyệt diễn đàn, hỗ trợ kỹ thuật |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Kiểm duyệt mảng mapping/modding |
@@ -144,7 +147,6 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Tiếng Indonesia, một chút Tiếng Việt | Kiểm duyệt chat, kiểm duyệt diễn đàn |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tiếng Trung | Kiểm duyệt chat |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Tiếng Hàn | Kiểm duyệt mảng mapping/modding |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Tiếng Đức, Tiếng Serbia | Kiểm duyệt diễn đàn |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Tiếng Phần Lan | Kiểm duyệt chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Kiểm duyệt diễn đàn, kiểm duyệt chat |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Tiếng Tây Ban Nha | Kiểm duyệt chat |

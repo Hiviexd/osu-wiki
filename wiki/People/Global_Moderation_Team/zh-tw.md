@@ -84,7 +84,9 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | 葡萄牙文 | 聊天室管理員 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 論壇管理員、技術支援人員 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技術支援人員 |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | 聊天室管理員 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支援人員、Wiki 管理員 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬蘭文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 芬蘭文、部分瑞典文 | 聊天室管理員 |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理員、製圖/Mod 圖社群管理員 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波蘭文 | 聊天室管理員 |
@@ -106,6 +108,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粵語、中文 | 錦標賽管理員 |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | 葡萄牙文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 開發者 |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法文、西班牙文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 越南文 | 聊天室管理員 |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律賓文 | 聊天室管理員、論壇管理員、技術支援人員 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 製圖/Mod 圖社群管理員 |
@@ -129,7 +132,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印尼文、部分越南文 | 聊天室管理員、論壇管理員 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中文 | 聊天室管理員 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓文 | 製圖/Mod 圖社群管理員 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德文、塞爾維亞文 | 論壇管理員 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 芬蘭文 | 聊天室管理員 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 論壇管理員、聊天室管理員 |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | 西班牙文 | 聊天室管理員 |

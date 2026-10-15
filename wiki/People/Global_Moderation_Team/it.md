@@ -100,7 +100,9 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Portoghese | Moderazione della chat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderazione del forum, supporto tecnico |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Supporto tecnico |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Moderazione della chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Supporto dei player, amministrazione della wiki |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finlandese | Moderazione della community del mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finlandese, un po' di svedese | Moderazione della chat |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Cinese | Moderazione della chat, moderazione della community del mapping/modding |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polacco | Moderazione della chat |
@@ -122,6 +124,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, cinese | Organizzazione tornei[^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portoghese | Moderazione della community del mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Sviluppo di osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francese, spagnolo | Moderazione della community del mapping/modding |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamita | Moderazione della chat |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filippino | Moderazione della chat, moderazione del forum, supporto tecnico |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderazione della community del mapping/modding |
@@ -145,7 +148,6 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesiano, un po' di vietnamita | Moderazione della chat, moderazione del forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Cinese | Moderazione della chat |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Moderazione della community del mapping/modding |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Tedesco, serbo | Moderazione del forum |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finlandese | Moderazione della chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderazione del forum, moderazione della chat |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Spagnolo | Moderazione della chat |

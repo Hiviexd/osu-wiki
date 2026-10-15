@@ -83,7 +83,9 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Portugal | Moderasi obrolan |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi forum, dukungan teknis |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Moderasi obrolan |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pemain, pengelolaan wiki |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finlandia | Moderasi komunitas mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finlandia, sedikit Swedia | Moderasi obrolan |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Mandarin | Moderasi obrolan, moderasi komunitas mapping/modding |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi obrolan |
@@ -105,6 +107,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kanton, Mandarin | Manajemen turnamen |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portugal | Moderasi komunitas mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Pengembangan osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Perancis, Spanyol | Moderasi komunitas mapping/modding |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnam | Moderasi obrolan |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog | Moderasi obrolan, moderasi forum, dukungan teknis |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderasi komunitas mapping/modding |
@@ -128,7 +131,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesia, sedikit Vietnam | Moderasi obrolan, moderasi forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Mandarin | Moderasi obrolan |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korea | Moderasi komunitas mapping/modding |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia | Moderasi forum |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finlandia | Moderasi obrolan |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderasi forum, moderasi obrolan |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Spanyol | Moderasi obrolan |

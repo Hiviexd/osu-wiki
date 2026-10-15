@@ -55,7 +55,9 @@ tags:
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | 포르투갈어 | 채팅 관리 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 포럼 관리, 기술 지원 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 기술 지원 |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | 채팅 관리 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 플레이어 지원, 위키 관리 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 핀란드어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 핀란드어, 약간의 스웨덴어 | 채팅 관리 |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | 중국어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
@@ -77,6 +79,7 @@ tags:
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 광둥어, 중국어 | 토너먼트 관리 |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | 포르투갈어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 개발 |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 프랑스어, 스페인어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 베트남어 | 채팅 관리 |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리, 기술 지원 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 매핑/모딩 커뮤니티 관리 |
@@ -100,7 +103,6 @@ tags:
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 인도네시아어, 약간의 베트남어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 한국어 | 매핑/모딩 커뮤니티 관리 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 독일어, 세르비아어 | 포럼 관리 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 핀란드어 | 채팅 관리 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 포럼 관리, 채팅 관리 |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | 스페인어 | 채팅 관리 |

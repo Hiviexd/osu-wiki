@@ -109,7 +109,9 @@ tags:
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Португальский | Модерация чата |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Модерация форума, техподдержка |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техподдержка |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Модерация чата |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддержка игроков, администрирование вики |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Финский | Модерация маппинг-сообщества |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Финский, частично шведский | Модерация чата |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Китайский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
@@ -131,6 +133,7 @@ tags:
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский, китайский | Организация турниров[^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Французский, испанский | Модерация маппинг-сообщества |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Вьетнамский | Модерация чата |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филиппинский | Модерация чата, модерация форума, техподдержка |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Модерация маппинг-сообщества |
@@ -154,7 +157,6 @@ tags:
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Индонезийский, частично вьетнамский | Модерация чата, модерация форума |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Китайский | Модерация чата |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейский | Модерация маппинг-сообщества |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, сербский | Модерация форума |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Финский | Модерация чата |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Модерация форума, модерация чата |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Испанский | Модерация чата |

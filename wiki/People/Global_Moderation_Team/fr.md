@@ -109,7 +109,9 @@ Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Portugais | Modération du tchat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Modération du forum, support technique |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | Modération du tchat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, administration du wiki |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnois | Modération de la communauté modding/mapping |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnois, un peu de suédois | Modération du tchat |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Chinois | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du tchat |
@@ -131,6 +133,7 @@ Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonais, chinois | Manager des tournois[^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portugais | Modération de la communauté modding/mapping |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Développement d'osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Français, espagnol | Modération de la communauté modding/mapping |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamien | Modération du tchat |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Modération du tchat, modération du forum, support technique |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté modding/mapping |
@@ -154,7 +157,6 @@ Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat, modération du forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Modération de la communauté modding/mapping |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Allemand, serbe | Modération du forum |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnois | Modération du tchat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Modération du forum, modération du tchat |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Espagnol | Modération du tchat |

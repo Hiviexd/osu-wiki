@@ -85,7 +85,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | โปรตุเกส | ผู้ดูแลแชท |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=AU }:: [Dritic](https://osu.ppy.sh/users/7987445) |  | ผู้ดูแลแชท |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | ฟินแลนด์ | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | จีน | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
@@ -107,6 +109,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | กวางตุ้ง, จีน | ผู้บริหารทัวร์นาเมนต์ |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | โปรตุเกส | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | ผู้พัฒนา osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | ฝรั่งเศส, สเปน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | เวียดนาม | ผู้ดูแลแชท |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | ฟิลิปปินส์ | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | ผู้ดูแลชุมชนการแมป/การ mod |
@@ -130,7 +133,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | จีน | ผู้ดูแลแชท |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | ฟินแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
 | ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | สเปน | ผู้ดูแลแชท |
